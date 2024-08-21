@@ -48,7 +48,7 @@ h1 {
 
 
 
-@media (max-width: 380px) {
+@media (max-width: 780px) {
     .imagem-container img {
         width: 300px;  /* Mais ajustes para telas muito pequenas */
         height: 300px;
